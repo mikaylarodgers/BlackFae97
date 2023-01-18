@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm MiKayla, an up and coming self-taught Full-Stack Developer 👨‍💻 self-learning since 2022 🚀</div>  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Self+Taught+Full+Stack+Developer)](https://git.io/typing-svg)
   
 
 
@@ -49,6 +49,8 @@
 </td></tr></table>  
 
 <br/>  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BlackFae97)](https://git.io/streak-stats)
 
 
 ## Connect with me  
