@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning HTML, just about ready to learn CSS.
 - 💞️ I’m looking to collaborate on ...still tryna figure that out.
 - 📫 How to reach me Linkedin: linkedin.com/in/mikayla-rodgers
-- In my head Esekiel Elliot and I are a thing!!
-<img src= "https://s.yimg.com/ny/api/res/1.2/CvR4LNbRATwacBsuS08V2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-01/b1ceb4a0-7747-11ec-8edf-e08cf7a9093c" alt= "Ezekiel Elliot">
+-Esekiel Elliot and I are a thing is my favorite player but I don't care for football!!
+<img src= "https://s.yimg.com/ny/api/res/1.2/CvR4LNbRATwacBsuS08V2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-01/b1ceb4a0-7747-11ec-8edf-e08cf7a9093c" alt= "Ezekiel Elliot"  style="width:500px;height:600px;>
 
 <!---
 BlackFae97/BlackFae97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
