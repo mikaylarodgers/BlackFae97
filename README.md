@@ -3,7 +3,7 @@
 </div>  
   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Self+Taught+Junior+Web+Developer)](https://git.io/typing-svg)
   
 
 
