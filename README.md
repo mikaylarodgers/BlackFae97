@@ -46,8 +46,6 @@
 
 
 
-</td></tr></table>  
-
 <br/>  
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BlackFae97)](https://git.io/streak-stats)
