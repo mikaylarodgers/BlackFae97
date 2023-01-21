@@ -12,10 +12,10 @@
 - 🔭 I’m currently building projects for my portfolio.  
   
 
-- 🌱 I’m currently learning HTML, CSS, and Python  
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I have a little mini me named Valentin, he's the apple of my eye and my reason for everything that I do and accomplish.
   
 
 <br/>  
